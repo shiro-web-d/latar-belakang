@@ -8,7 +8,7 @@ const produk = [
     icon: "assets/apk/am.png",
     varian: [
       { nama: "Sharing 1 Tahun", harga: "Rp 7.000", stok: 20 },  // <-- stok per varian
-      { nama: "Private 1 Tahun", harga: "Rp 10.000", stok: 10 }
+      { nama: "Private 1 Tahun", harga: "Rp 10.000", stok: 5 }
     ]
   },
   { 
@@ -43,10 +43,10 @@ const produk = [
     ]
   },
   { 
-    id: 6, nama: "coming soon", desc: "....", 
-    icon: "assets/apk/pa.png",
+    id: 6, nama: "PANEL PTERODACTYL LEGAL", desc: "GAS BELI BANG", 
+    icon: "assets/apk/PC.png",
     varian: [
-      { nama: "1 Bulan", harga: "Rp 5.000", stok: 0 }
+      { nama: "PANEL PTERODACTYL 1 BULAN", harga: "Rp 20.000", stok: 20 }
     ]
   }
 ];
